@@ -1,0 +1,72 @@
+* {
+  font-family: sans-serif;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #2b2922;
+}
+
+.list {
+  float: right;
+  margin-right: 380px;
+  color: #9e9985;
+  margin-top: -30px;
+}
+.list-item {
+  float: left;
+  list-style: none;
+  margin-right: 23px;
+  font-size: 20px;
+}
+:hover.list-item,
+:active.list-item {
+  color: #fff;
+  font-weight: bold;
+}
+.list-item:first-child {
+  color: #fff;
+  font-weight: bold;
+}
+.button-small {
+  float: right;
+  margin-right: -750px;
+  margin-top: -40px;
+  padding: 15px 40px;
+  border: 1px solid #877a31;
+  border-radius: 5px;
+  color: #877a31;
+  background-color: #2b2922;
+  font-weight: 900;
+}
+.navbar div img {
+  margin-top: 50px;
+  margin-left: 90px;
+}
+.hero-heading {
+  font-size: 70px;
+  color: #ffff;
+  width: 700px;
+  margin-left: 90px;
+  margin-top: 100px;
+  font-family: sans-serif;
+  font-weight: 900;
+}
+.hero-description {
+  float: right;
+  width: 450px;
+  margin-top: -230px;
+  color: #9e9985;
+  font-size: 23px;
+  margin-right: 150px;
+  line-height: 35px;
+}
+.bottom {
+  height: 300px;
+  width: 100%;
+  margin-top: 70px;
+  margin-inline: 0;
+  background-image: url(./assets/banner.jpg);
+  background-size: 100% 400px;
+  background-repeat: no-repeat;
+}
