@@ -12,7 +12,7 @@ This Project is a Simple Static Non-Responsive webpage created by using just HTM
 - Position 
 - Navbar Designing 
 
-## Preview |     [Live Link](https://law-firm-03.netlify.app)
+## Preview |     [Live Link](https://03-law-webpage.vercel.app/)
 ***
 ![ScreenShot](./ScreenShot.PNG)
 
